@@ -1,8 +1,15 @@
 .env
 
+# node 
 node_modules/
 
 *.log
 
 .DS_Store
 Thumbs.db
+
+# rust
+debug/
+target/
+
+Cargo.lock
